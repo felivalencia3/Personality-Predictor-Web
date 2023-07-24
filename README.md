@@ -7,7 +7,6 @@ Machine Learning algorithm that predicts a person's Myers Briggs personality typ
 # Features
 - Predict your personality type by entering a text sample of your writing
 - See the probability of each personality type based on your text
-- Learn more about each personality type and its characteristics
 - Compare your predicted personality type with famous people who share it
 - Explore the dataset and the model used for the prediction
 # Requirements
