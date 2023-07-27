@@ -30,9 +30,3 @@ Machine Learning algorithm that predicts a person's Myers Briggs personality typ
 - Click on any personality type to see more details about it
 - Click on the compare button to see famous people who share your personality type
 - Click on the explore button to see the dataset and the model used for the prediction
-# Credits
-This project was created by Felipe Valencia as a personal project. It uses the following resources:
-
-- Naive Bayes Classifier by scikit-learn: A machine learning algorithm for text classification.
-- Flask by Pallets: A lightweight web framework for Python.
-- React by Facebook: A library for building user interfaces with JavaScript.
